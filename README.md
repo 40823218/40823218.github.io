@@ -1,4 +1,5 @@
 # cmsite
+https://40823218.github.io/content/index.html
 cmsimde template uses mdecycu/cmsimde as submodule
 
 On Replit:
